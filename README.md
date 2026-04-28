@@ -6,18 +6,18 @@ Sistema de gerenciamento de estoque desenvolvido para controlar produtos, permit
 🚀 Tecnologias
 - Java
 
-⚙️ Funcionalidades
+⚙️ Funcionalidades:
 - Adicionar novos produtos
 - Listar produtos cadastrados
 - Remover produtos
 - Atualizar quantidade em estoque
 
-🧠 Conceitos aplicados
+🧠 Conceitos aplicados:
 - Programação Orientada a Objetos (POO)
 - Estruturação de dados
 - Organização de código
 
-▶️ Como executar
+▶️ Como executar:
 1. Clonar o repositório  
 2. Abrir em uma IDE (Eclipse ou VS Code)  
 3. Executar a aplicação  
